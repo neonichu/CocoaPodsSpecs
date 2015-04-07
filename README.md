@@ -1,0 +1,3 @@
+# Specs
+
+My CocoaPods Specs.

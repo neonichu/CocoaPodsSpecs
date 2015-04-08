@@ -14,7 +14,7 @@
   },
   "source": {
     "git": "https://github.com/ashfurrow/ReactiveCocoa.git",
-    "commit": "e457235d9ccf9cf6fbb4ec22639bf2423e2ec1fe"
+    "commit": "240140c14d023cdb49f4ddf9622c3131619b2197"
   },
   "default_subspecs": "UI",
   "requires_arc": true,
